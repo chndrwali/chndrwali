@@ -6,7 +6,7 @@ Saya bertanggung jawab pada kualitas materi Web dengan dibekali [sertifikasi dar
 
 Saya juga memiliki gelar [Cloud Practioner Essential](https://www.dicoding.com/certificates/MRZM46EE0XYQ) sejak 2022.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/candra-wali-sanjaya-01247120b/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chndrwali/)ku ya.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
