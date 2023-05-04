@@ -2,7 +2,7 @@
 
 Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).
 
-Saya bertanggung jawab pada kualitas materi Web dengan dibekali [sertifikasi dari dicoding](https://www.dicoding.com/certificates/GRX5KE70RZ0M).
+Saya bertanggung jawab pada kualitas Web yang saya buat dengan dibekali [sertifikasi dari dicoding](https://www.dicoding.com/certificates/GRX5KE70RZ0M).
 
 Saya juga memiliki gelar [Cloud Practioner Essential](https://www.dicoding.com/certificates/MRZM46EE0XYQ) sejak 2022.
 
