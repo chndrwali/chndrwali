@@ -4,7 +4,7 @@
 </a>
 ### Hi 👋 I'm Candra.
 
-Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Web Developer**  /* di [Dicoding](https://www.dicoding.com/). */
 
 Saya bertanggung jawab pada kualitas Web yang saya buat dengan dibekali [sertifikasi dari dicoding](https://www.dicoding.com/certificates/GRX5KE70RZ0M).
 
