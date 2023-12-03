@@ -4,11 +4,8 @@
 </a>
 ### Hi 👋 I'm Candra.
 
-Saya seorang **Web Developer**  /* di [Dicoding](https://www.dicoding.com/). */
-
-Saya bertanggung jawab pada kualitas Web yang saya buat dengan dibekali [sertifikasi dari dicoding](https://www.dicoding.com/certificates/GRX5KE70RZ0M).
-
-Saya juga memiliki gelar [Cloud Practioner Essential](https://www.dicoding.com/certificates/MRZM46EE0XYQ) sejak 2022.
+Saya seorang **Web Developer**
+Saya bertanggung jawab pada kualitas Web yang saya buat dengan dibekali [sertifikasi React Web Expert dari dicoding](https://www.dicoding.com/certificates/MRZMQRYJLPYQ).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chndrwali/)ku ya.
 
