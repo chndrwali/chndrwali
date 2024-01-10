@@ -1,13 +1,55 @@
-### hey there 
-<a href="https://www.instagram.com/chndrwali/">
-  <img align="left" alt="Candra's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
-### Hi 👋 I'm Candra.
+<!-- 
+<a href=''>
+  <img src='' alt='tfkhdyt header' width='100%' />
+</a>
+-->
+<p align=center>
+  <a href="https://t.me/tfkhdyt">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
+  </a>&nbsp;
+  <a href="https://facebook.com/tfkhdyt142">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
+  </a>&nbsp;
+  <a href="https://youtube.com/tfkhdyt">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_social_red_circle_%282017%29.svg" />
+  </a>&nbsp;
+  <!-- <a href="https://twitter.com/tfkhdyt"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"></a>&nbsp; -->
+  <a href="https://www.linkedin.com/mwlite/in/taufik-hidayat-6793aa200"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
+  <a href="https://instagram.com/_tfkhdyt_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+  <!-- <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
+  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
+  <a href="https://user-badge.committers.top/indonesia/tfkhdyt"><img src="https://user-badge.committers.top/indonesia/tfkhdyt.svg" alt="committers.top badge"></a>
+  <!-- <a href='https://stackshare.io/tfkhdyt/mn3'> -->
+  <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
+  <!-- </a> -->
+</p>
 
-Saya seorang **Web Developer**
-Saya bertanggung jawab pada kualitas Web yang saya buat dengan dibekali [sertifikasi React Web Expert dari dicoding](https://www.dicoding.com/certificates/MRZMQRYJLPYQ).
+<h3 align=center>Front End Developer | Machine Learning Developer | Informatics Engineering Student | Web Enthusiast</h3>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chndrwali/)ku ya.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### About Me 👨🏻
+
+- 👨🏻‍💼 My name is `Candra Wali Sanjaya`
+- 🏠 Live in `Bandung, Indonesia`
+- 👶🏻 Born in `Bandung, Mei 15 2001`
+- 🧍🏻‍♂️ `22` years old
+- 💻 `Informatics Engineering` Student at `Universitas Nasional Pasim`
+- 🌟 Currently, `React`, `JavaScript`, and `TypeScript` are my favorite tech.
+- 🌏 Languages
+  - 🇮🇩 Indonesian
+  - 🇮🇩 Sundanese
+  
+<!-- - ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~
+- 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`) -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
