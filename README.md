@@ -31,7 +31,6 @@
 - 👨🏻‍💼 My name is `Candra Wali Sanjaya`
 - 🏠 Live in `Bandung, Indonesia`
 - 👶🏻 Born in `Bandung, May 15 2001`
-- 🧍🏻‍♂️ `22` years old
 - 💻 `Informatics Engineering` Student at `Universitas Nasional Pasim`
 - 🌟 Currently building modern applications with the `T3 Stack` (Next.js, React, tRPC, TypeScript, Tailwind) + `Prisma` & `PostgreSQL`.
 - 🌏 Languages
